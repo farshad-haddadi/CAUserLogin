@@ -14,7 +14,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * The version of Main with an external database used to persist user data.
+ * The version of Main with an external database used to persist user data. .
  */
 public class MainWithInMemory {
 
